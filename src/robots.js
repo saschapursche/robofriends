@@ -28,13 +28,13 @@ export const robots = [
     id: 5,
     name: 'Heinz Dietrich',
     username: 'Dietrich1999',
-    email: 'heinzküsstdiertrich@wold.us'
+    email: 'heinzküsstdiertrich@world.us'
   },
   {
     id: 6,
     name: 'Mrs. Dennis Käse',
     username: 'Leopoldo_Corkery',
-    email: 'corkery@Chees.info'
+    email: 'corkery@chees.info'
   },
   {
     id: 7,
