@@ -1,3 +1,4 @@
+//object with all robot values
 export const robots = [
   {
     id: 1,
